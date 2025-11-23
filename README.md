@@ -16,7 +16,7 @@ Engenheiro responsável: **Melquisedeque C. Campos**
 
 - ✅ Arquitetura **MVC** simples e organizada  
 - ✅ **Router próprio** (sem dependência de `.htaccess`)  
-- ✅ **Template padrão** pronto (Bootstrap 5), estilo Laminas Framework  
+- ✅ **Template padrão** pronto (Bootstrap 5), estilo Moderno  
 - ✅ **Views em `.phtml`** com partes fatiadas (`shared/`)  
 - ✅ Estrutura preparada para **plugins/módulos** (`plugins/`)  
 - ✅ Organização pensada para **SaaS**, dashboards e painéis administrativos  
